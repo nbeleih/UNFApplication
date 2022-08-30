@@ -27,7 +27,7 @@ public class ConnectToDB {
 	public static String url = "jdbc:mysql://cisvm-winsrv-mysql1.unfcsd.unf.edu:3307/?user=n01406392/group3";
 	 
 	public static String username = "n01406392";
-	public static String password = "Nonoshlol17";
+	public static String password = "#";
 	protected JTable table;
 	
 
